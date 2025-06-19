@@ -1,6 +1,6 @@
 # cifra_de_blocos.py
 # Algoritmo de Cifra de Blocos Simétrica de 32 bits com 3 rodadas
-#Desenvolvido por VEGADEV
+
 
 def int_to_bits(n, size=32):
     return [(n >> i) & 1 for i in range(size)][::-1]

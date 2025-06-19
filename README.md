@@ -41,7 +41,7 @@ O sistema permite tanto **criptografar** quanto **decriptografar** arquivos, uti
 ### Requisitos:
 - Python 3.x
 
-### Execução:
+### Execução do programa:
 
 **1. Executar o Menu de Criptografia/Decriptografia:**
 ```bash
